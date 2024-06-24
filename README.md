@@ -11,7 +11,7 @@
   <a href="mailto:res.maika@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://stackoverflow.com/users/rana-e-helal" target="_blank">
+  <a href="https://stackoverflow.com/users/20450409/rana-e-helal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow logo" />
   </a>
 </div>
