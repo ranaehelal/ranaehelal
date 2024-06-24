@@ -5,7 +5,7 @@
 ### Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eanaehelal" target="_blank">
+  <a href="https://www.linkedin.com/in/rana-helal-23b014262/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="mailto:res.maika@gmail.com" target="_blank">
