@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2 align="left">I'm Rana</h2>
+## Hi there 👋 <h2 align="left">I'm Rana</h2>
 
 ###
 
