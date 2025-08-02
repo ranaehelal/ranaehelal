@@ -31,11 +31,18 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+ <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Scipy_logo.svg" height="30" alt="SciPy" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="30" alt="Pandas" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/NumPy_logo_2020.svg" height="30" alt="NumPy" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV_Logo_with_text_svg_version.svg" height="30" alt="OpenCV" />
 </div>
-
 #### 📱 Mobile Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
@@ -45,6 +52,8 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="Firebase" />
 </div>
 
 #### 🌐 Web & Backend
@@ -56,6 +65,8 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
 </div>
 
 #### 🗄️ Database
