@@ -32,17 +32,18 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
- <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Scipy_logo.svg" height="30" alt="SciPy" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" height="30" alt="Scikit-learn" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="30" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="30" alt="SciPy" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/NumPy_logo_2020.svg" height="30" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="30" alt="Pandas" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="30" alt="NumPy" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV_Logo_with_text_svg_version.svg" height="30" alt="OpenCV" />
 </div>
+
 #### 📱 Mobile Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
