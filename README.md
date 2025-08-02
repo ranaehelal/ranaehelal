@@ -41,7 +41,7 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img width="12" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="30" alt="NumPy" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV.svg" height="30" alt="OpenCV" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV.svg](https://icon2.cleanpng.com/20180719/gkc/kisspng-learning-opencv-computer-vision-machine-learning-c-singleton-pattern-5b505052c02871.9275163515319900987871.jpg)" height="30" alt="OpenCV" />
 </div>
 
 #### 📱 Mobile Development
