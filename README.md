@@ -41,7 +41,7 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img width="12" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="30" alt="NumPy" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV_Logo_with_text_svg_version.svg" height="30" alt="OpenCV" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenCV.svg" height="30" alt="OpenCV" />
 </div>
 
 #### 📱 Mobile Development
@@ -49,8 +49,6 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
