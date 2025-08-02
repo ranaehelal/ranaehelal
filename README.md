@@ -1,60 +1,106 @@
-<h2 align="left">Hi there 👋 I'm Rana</h2>
+<h2 align="left">Hi there 👋 I'm Rana Helal</h2>
 
-<h5 align="left">Student at the Faculty of Computer Sciences and Artificial Intelligence - Cairo University</h5>
+<h4 align="left">Computer Science & AI Student at Cairo University | AI & Flutter Developer</h4>
 
-### Connect with Me
+---
+
+### 🧠 About Me
+
+I'm a Computer Science and Artificial Intelligence student at **Cairo University** with practical experience in:
+- **Machine Learning & Deep Learning**
+- **Natural Language Processing (NLP)**
+- **Computer Vision**
+- **Mobile App Development (Flutter, Java)**
+
+💡 I'm passionate about designing end-to-end intelligent systems that solve real-world problems using clean architecture and scalable design principles.  
+
+---
+
+### 💼 Projects
+
+- 🔍 [**Fake News Classifier**](https://github.com/ranaehelal/fake_news_classifier): Traditional ML + LSTM models with FastAPI backend & Flutter frontend.  
+- ⚠️ [**Toxic Comment Detector**](https://github.com/ranaehelal/toxic-comment-detector): Multi-label LSTM classifier deployed with FastAPI and React.  
+- 🎵 [**Audio Classification**](https://github.com/ranaehelal/FSDD-0-1-NB-LR-Bagging): Real-time prediction using audio features like MFCCs and bagging classifiers.  
+- 🚉 [**Mahatatty (محطتي)**](https://github.com/ranaehelal/Mahatatty): Cross-platform train booking app with Firebase, Flutter, secure auth, dark/light UI, MVVM.
+
+---
+
+### 🔧 Tech Stack
+
+#### 🚀 AI & Data Science
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+</div>
+
+#### 📱 Mobile Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+</div>
+
+#### 🌐 Web & Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+</div>
+
+#### 🗄️ Database
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
+</div>
+
+#### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ranaehelal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranaehelal&theme=dark&hide_border=false&layout=compact)
+
+---
+
+### 🔗 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rana-helal-23b014262/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:res.maika@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail" />
   </a>
   <a href="https://stackoverflow.com/users/20450409/rana-e-helal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="30" alt="Stack Overflow" />
   </a>
 </div>
 
-### GitHub Stats
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ranaehelal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranaehelal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Web Technologies
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo"  />
-</div>
-
-### Programming Languages
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo"  />
-</div>
-
-### Databases
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="Microsoft SQL Server logo"  />
-</div>
-
+<!-- Proudly created and maintained by Rana Helal -->
