@@ -62,10 +62,9 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS" />
+  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="30" alt="NestJS" />
   <img width="12" />
-  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="30" alt="Spring Boot" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" /> </div></div>
   
 </div>
 
