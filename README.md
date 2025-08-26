@@ -1,6 +1,9 @@
 <h2 align="left">Hi there 👋 I'm Rana Helal</h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
+
 <h4 align="left">Computer Science & AI Student at Cairo University | AI & Flutter Developer</h4>
+
 
 ---
 
@@ -13,15 +16,6 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 - **Mobile App Development (Flutter, Java)**
 
 💡 I'm passionate about designing end-to-end intelligent systems that solve real-world problems using clean architecture and scalable design principles.  
-
----
-
-### 💼 Projects
-
-- 🔍 [**Fake News Classifier**](https://github.com/ranaehelal/fake_news_classifier): Traditional ML + LSTM models with FastAPI backend & Flutter frontend.  
-- ⚠️ [**Toxic Comment Detector**](https://github.com/ranaehelal/toxic-comment-detector): Multi-label LSTM classifier deployed with FastAPI and React.  
-- 🎵 [**Audio Classification**](https://github.com/ranaehelal/FSDD-0-1-NB-LR-Bagging): Real-time prediction using audio features like MFCCs and bagging classifiers.  
-- 🚉 [**Mahatatty (محطتي)**](https://github.com/ranaehelal/Mahatatty): Cross-platform train booking app with Firebase, Flutter, secure auth, dark/light UI, MVVM.
 
 ---
 
@@ -65,11 +59,22 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+</div>
+  
 </div>
 
 #### 🗄️ Database
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+
 </div>
 
 #### 🛠️ Tools & Platforms
