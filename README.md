@@ -27,7 +27,7 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" height="30" alt="Scikit-learn" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="Scikit-learn" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="30" alt="SciPy" />
   <img width="12" />
