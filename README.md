@@ -1,6 +1,3 @@
-<h2 align="left">Hi there 👋 I'm Rana Helal</h2>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
 
 <h4 align="left">  AI & Software Developer | Specializing in Machine Learning, Backend, and Mobile Apps</h4>
 
@@ -22,6 +19,7 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 ### 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranaehelal&theme=dark&hide_border=false)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
 
 ---
 
