@@ -25,10 +25,5 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 
 ---
 
-### 🔗 Connect with Me
-
-<a href="https://www.linkedin.com/in/rana-helal-23b014262/" target="_blank">LinkedIn</a> |
-<a href="mailto:res.maika@gmail.com" target="_blank">Gmail</a> |
----
 
 <!-- Proudly created and maintained by Rana Helal -->
