@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a Computer Science and Artificial Intelligence student at **Cairo University** with experience in:
 - **Machine Learning & Deep Learning**
@@ -13,15 +13,15 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 - **Backend Development with FastAPI**
 
 
-💡 Passionate about designing end-to-end intelligent systems with clean architecture and scalable design.
+ Passionate about designing end-to-end intelligent systems with clean architecture and scalable design.
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranaehelal&theme=dark&hide_border=false)<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
 
 
 <!-- Proudly created and maintained by Rana Helal -->
