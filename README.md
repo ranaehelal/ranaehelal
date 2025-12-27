@@ -15,11 +15,6 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 
  Passionate about designing end-to-end intelligent systems with clean architecture and scalable design.
 
-
-###  GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ranaehelal&theme=dark&hide_border=false)<br/>
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
 
