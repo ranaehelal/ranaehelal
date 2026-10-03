@@ -1,21 +1,21 @@
-
-<h4 align="left">  AI & Software Developer | Specializing in Machine Learning, Backend, and Mobile Apps</h4>
+#### AI/ML Engineer | Generative AI, LLMs & Production AI Systems
 
 ---
 
 ### About Me
 
-I'm an **AI & Machine Learning Engineer** and **Cairo University graduate** with hands-on experience in:
+I'm an **AI/ML Engineer** and **Cairo University graduate** with **1+ year of professional experience** building production-ready AI systems, with hands-on experience in:
 
 * **Generative AI & Large Language Models (LLMs)**
 * **RAG & Agentic AI Systems**
-* **Machine Learning & Deep Learning**
+* **LLM Fine-tuning, Evaluation & Inference Optimization**
 * **Natural Language Processing (NLP)**
+* **Machine Learning & Deep Learning**
 * **Computer Vision**
-* **LLM Fine-tuning & Inference Optimization**
-* **Backend & AI Systems Development with Python and FastAPI**
+* **AI Backend Development with Python & FastAPI**
 
-Passionate about building **production-ready AI systems** and designing scalable, end-to-end solutions that combine intelligent models with reliable backend infrastructure.
+I enjoy turning AI models and research concepts into **reliable, scalable applications**, from model inference and RAG pipelines to agentic workflows and backend services.
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ranaehelal&color=blue)
